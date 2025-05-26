@@ -1,0 +1,15 @@
+{
+    "name": "code-to-slide-show",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "path": "^0.12.7",
+        "child_process":"^1.0.2"
+    }
+  
+  }
+  
