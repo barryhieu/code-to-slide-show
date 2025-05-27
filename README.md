@@ -44,7 +44,7 @@ This tool is perfect for quick demos, highlight reels, or simple video compilati
 .
 ├── media/          # Place your input files here (images/videos)
 ├── output/         # Your generated slideshow will appear here
-├── index.js/            # App source code
+├── index.js/       # App source code
 ├── README.md       # This file
 ```
 

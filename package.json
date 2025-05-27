@@ -1,6 +1,6 @@
 {
     "name": "code-to-slide-show",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "scripts": {
       "start": "node index.js"
     },
@@ -9,6 +9,5 @@
         "path": "^0.12.7",
         "child_process":"^1.0.2"
     }
-  
   }
   
